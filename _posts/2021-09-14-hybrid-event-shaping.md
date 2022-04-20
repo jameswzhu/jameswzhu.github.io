@@ -12,3 +12,8 @@ Many controllers for legged robotic systems leverage open- or closed-loop contro
 hybrid event shaping (HES): a generalized method for analyzing and designing stable hybrid event controllers. HES utilizes the
 saltation matrix, which gives a closed-form equation for the effect that hybrid events have on stability. We also introduce shape parameters, which are higher order terms that can be tuned completely independently of the system dynamics to promote stability. Optimization methods are used to produce values of these parameters that optimize a stability measure. Hybrid event shaping captures previously developed control methods while also producing new optimally stable trajectories without the need for continuous-domain feedback.
 
+Watch the video attachment here:
+[![HES_video_attachment](http:www.youtube.com/watch?v=EqIjG2cCX5w/0.jpg)](https://www.youtube.com/watch?v=EqIjG2cCX5w "Hybrid Event Shaping Video Attachment")
+
+Watch my presentation at ICRA here:
+[![HES_ICRA_presentation](https://www.youtube.com/watch?v=oLRKRzsb5uo/0.jpg)](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation")
