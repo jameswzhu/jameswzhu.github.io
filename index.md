@@ -1,6 +1,5 @@
 ---
 layout: home
-title: James Zhu
 ---
 
 ![Me](/assets/img/Picture_of_Head.JPG)
