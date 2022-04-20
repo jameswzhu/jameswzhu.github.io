@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "By Air or by Land: How Locomotion Methods Dictate Drone Ethics"
-subtitle: Submitted to ICRA 2022
-cover-img: /assets/img/paddle_juggler.jpg
-thumbnail-img: /assets/img/paddle_juggler.jpg
-share-img: /assets/img/paddle_juggler.jpg
-tags: [hybrid systems]
+subtitle: Submitted to ICRA 2022 Workshop on Addressing Ethical and Technical Challenges in the Development, Use, and Governance of Lethal Autonomous Weapons Systems
+cover-img: /assets/img/ghost_robotics_sniper.jpg
+thumbnail-img: /assets/img/ghost_robotics_sniper.jpg
+share-img: /assets/img/ghost_robotics_sniper.jpg
+tags: [ethics]
 ---
 
 The development of weaponized legged robotic platforms beckons consideration of the ethical use of these new technologies. In particular, we propose that legged drones will be deployed in substantially different environments than aerial drones and that this difference necessitates a new set of ethical guidelines.
