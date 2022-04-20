@@ -12,3 +12,4 @@ The development of weaponized legged robotic platforms beckons consideration of 
 
 Read the abstract <a href="/assets/pdf/How Locomotion Methods Dictate Drone Ethics.pdf">
 
+<a href=http://www.adobe.com/prodlist.pdf>
