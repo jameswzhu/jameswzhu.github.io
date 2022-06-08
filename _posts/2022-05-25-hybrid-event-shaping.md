@@ -20,8 +20,8 @@ Here is the poster presented at ICRA 2022:
 
 Watch the video attachment here:
 
-[![HES_video_attachment](http://img.youtube.com/vi/EqIjG2cCX5w/0.jpg)](https://www.youtube.com/watch?v=EqIjG2cCX5w "Hybrid Event Shaping Video Attachment")
+[![HES_video_attachment](http://img.youtube.com/vi/EqIjG2cCX5w/0.jpg)](https://www.youtube.com/watch?v=EqIjG2cCX5w "Hybrid Event Shaping Video Attachment" width="800")
 
 Watch my presentation at ICRA here:
 
-[![HES_ICRA_presentation](https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg)](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation")
+[![HES_ICRA_presentation](https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg)](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation" width="800")
