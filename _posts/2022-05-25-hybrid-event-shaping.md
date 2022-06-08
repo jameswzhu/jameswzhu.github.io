@@ -16,12 +16,12 @@ Read the paper [here](https://arxiv.org/abs/2110.01123) on Arxiv:
 
 Here is the poster presented at ICRA 2022:
 
-<img src="/assets/img/hybrid_event_shaping_icra_2022" alt="HES Poster" width="800 class="center"/>
+<img src="/assets/img/hybrid_event_shaping_icra_2022" alt="HES Poster" width="800" class="center"/>
 
 Watch the video attachment here:
 
-[![HES_video_attachment](http://img.youtube.com/vi/EqIjG2cCX5w/0.jpg) width="800"](https://www.youtube.com/watch?v=EqIjG2cCX5w "Hybrid Event Shaping Video Attachment")
+[![HES_video_attachment](http://img.youtube.com/vi/EqIjG2cCX5w/0.jpg)](https://www.youtube.com/watch?v=EqIjG2cCX5w "Hybrid Event Shaping Video Attachment")
 
 Watch my presentation at ICRA here:
 
-[![HES_ICRA_presentation](https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg) width="800"](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation")
+[![HES_ICRA_presentation](https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg)](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation")
