@@ -16,7 +16,7 @@ Read the paper [here](https://arxiv.org/abs/2110.01123) on Arxiv:
 
 Here is the poster presented at ICRA 2022:
 
-<img src="/assets/img/hybrid_event_shaping_icra_2022" width="800 class="center"/>
+<img src="/assets/img/hybrid_event_shaping_icra_2022" alt="HES Poster" width="800 class="center"/>
 
 Watch the video attachment here:
 
