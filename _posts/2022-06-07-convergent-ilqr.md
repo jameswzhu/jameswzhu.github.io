@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Convergent iLQRfor Underactuated Hybrid Dynamical Systems
+title: Convergent iLQR for Underactuated Hybrid Dynamical Systems
 subtitle: Accepted to RSS 2022 Risk Aware Decision Making Workshop
 cover-img: /assets/img/cl_hist.jpg
 thumbnail-img: /assets/img/cl_hist.jpg
