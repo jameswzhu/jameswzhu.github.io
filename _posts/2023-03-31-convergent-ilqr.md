@@ -2,9 +2,9 @@
 layout: post
 title: Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots
 subtitle: Submitted to IEEE CDC 2023
-cover-img: /assets/img/cl_hist.jpg
-thumbnail-img: /assets/img/cl_hist.jpg
-share-img: /assets/img/cl_hist.jpg
+cover-img: /assets/img/quad_comparison.jpg
+thumbnail-img: /assets/img/quad_comparison.jpg
+share-img: /assets/img/quad_comparison.jpg
 tags: [hybrid systems]
 ---
 
