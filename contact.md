@@ -4,4 +4,4 @@ title: Contact
 subtitle: 
 ---
 
-### Contact me
+Email: [jameszhu@andrew.cmu.edu](mailto:jameszhu@andrew.cmu.edu)
