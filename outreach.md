@@ -2,7 +2,7 @@
 layout: page
 title: Outreach
 ---
-<img src="/assets/img/gwens_girls-min.jpg" alt="Me" width="400" class="center"/>
+<img src="/assets/img/gwens_girls-min.jpg" alt="Me" width="600" class="center"/>
 
 I firmly believe that universities have the responsibility to form close connections to their surrounding communities.
 Here is a list of the outreach programs I have been involved with since being at CMU:
