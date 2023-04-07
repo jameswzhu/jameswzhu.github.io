@@ -14,11 +14,6 @@ author: James Zhu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Projects:
-    - Hybrid Systems Control: "hybridsystems"
-    - Ethical Use of Robots: "robotethics"
-  Contact: "contact"
 
 # --- Logo --- #
 
