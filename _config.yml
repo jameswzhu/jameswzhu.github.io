@@ -14,7 +14,7 @@ author: James Zhu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "CV"
+  CV: "assets/pdf/James_Zhu_CV.pdf"
   Outreach: "outreach"
   Percy: "percy"
 
