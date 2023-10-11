@@ -12,3 +12,7 @@ Robots operating in close proximity to humans rely heavily on human trust in the
 defense concerns and the need for the recommendations to guide improvements in the field.
 
 Read the paper [here](https://arxiv.org/abs/2304.00347).
+
+Watch my presentation at RO-MAN here:
+
+[![Self-Defense RO-MAN Presentation](https://img.youtube.com/vi/dce7EnUBWqU/0.jpg)](https://www.youtube.com/watch?v=dce7EnUBWqU "Grounding Robot Navigation in Self-Defense Law")
