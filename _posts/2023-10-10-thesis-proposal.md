@@ -5,7 +5,7 @@ subtitle: Thesis Proposal
 cover-img: /assets/img/deployment_stack.png
 thumbnail-img: /assets/img/deployment_stack.png
 share-img: /assets/img/deployment_stack.png
-tags: [ethics]
+tags: [thesis]
 ---
 
 In recent years, many wheeled, bipedal, and quadrupedal robots have been released to market.
