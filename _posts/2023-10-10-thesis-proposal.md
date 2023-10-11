@@ -32,4 +32,4 @@ inform robot design as well as how community attitudes toward robots can inform 
 design and future policies. These findings will allow robots to make positive contributions in our
 vast, human world.
 
-Read the proposal document [here](/assets/pdf/James_Zhu_Thesis_Proposal).
+Read the proposal document [here](/assets/pdf/James_Zhu_Thesis_Proposal.pdf).
