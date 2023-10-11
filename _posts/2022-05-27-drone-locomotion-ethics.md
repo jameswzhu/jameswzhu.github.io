@@ -10,7 +10,7 @@ tags: [ethics]
 
 The development of weaponized legged robotic platforms beckons consideration of the ethical use of these new technologies. In particular, we propose that legged drones will be deployed in substantially different environments than aerial drones and that this difference necessitates a new set of ethical guidelines.
 
-Read the abstract [here](https://www.andrew.cmu.edu/user/amj1/papers/How_Locomotion_Methods_Dictate_Drone_Ethics.pdf):
+Read the abstract [here](https://www.andrew.cmu.edu/user/amj1/papers/How_Locomotion_Methods_Dictate_Drone_Ethics.pdf).
 
 Here is the poster presented at ICRA 2022:
 
