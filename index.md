@@ -9,4 +9,4 @@ I work with Dr. Aaron Johnson in the [Robomechanics Lab](https://www.cmu.edu/me/
 
 I received my MS in Mechanical Engineering from Carnegie Mellon in 2022 and BE in Mechanical Engineering and Math from Vanderbilt University in 2020.
 
-Here is my reserach output that I have worked on:
+Here is my research output that I have worked on:
