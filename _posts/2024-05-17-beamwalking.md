@@ -2,9 +2,9 @@
 layout: post
 title: Designing Safe Quadrupedal Gaits
 subtitle: Presented at IEEE ICRA 2024 Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems Workshop
-cover-img: /assets/img/beamwalking.PNG
-thumbnail-img: /assets/img/beamwalking.PNG
-share-img: /assets/img/beamwalking.PNG
+cover-img: /assets/img/beamwalking.png
+thumbnail-img: /assets/img/beamwalking.png
+share-img: /assets/img/beamwalking.png
 tags: [hybrid systems]
 ---
 The robotics field has long had the goal of performing tasks in precarious work environments where human laborers are at risk of bodily harm. 
