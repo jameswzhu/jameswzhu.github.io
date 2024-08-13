@@ -5,7 +5,7 @@ subtitle: In Preparation
 cover-img: /assets/img/delivery_robot.jpg
 thumbnail-img: /assets/img/delivery_robot.jpg
 share-img: /assets/img/delivery_robot.jpg
-tags: [hybrid systems]
+tags: [ethics]
 ---
 
 Developments in robotic technologies suggest that, in the near future, robots will become widely deployed throughout public spaces. One robotic technology that already has a presence in many cities is autonomous delivery robots (ADRs). 
