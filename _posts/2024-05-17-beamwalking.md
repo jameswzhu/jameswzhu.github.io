@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Effect of Gait Parameters on Safe Quadrupedal Locomotion: Walking Over Beams
+title: Designing Safe Quadrupedal Gaits
 subtitle: Presented at IEEE ICRA 2024 Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems Workshop
 cover-img: /assets/img/beamwalking.PNG
 thumbnail-img: /assets/img/beamwalking.PNG
