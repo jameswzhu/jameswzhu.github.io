@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots
-subtitle: Presented at IEEE ICRA 2024
+subtitle: 2024 IEEE ICRA
 cover-img: /assets/img/quad_comparison.jpg
 thumbnail-img: /assets/img/quad_comparison.jpg
 share-img: /assets/img/quad_comparison.jpg
