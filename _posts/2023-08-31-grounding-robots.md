@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grounding Robot Locomotion in Self-Defense Law
-subtitle: Presented at IEEE RO-MAN 2023
+subtitle: 2023 IEEE RO-MAN
 cover-img: /assets/img/delivery.jpg
 thumbnail-img: /assets/img/delivery.jpg
 share-img: /assets/img/delivery.jpg
