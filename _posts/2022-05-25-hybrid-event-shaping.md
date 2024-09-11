@@ -14,14 +14,6 @@ saltation matrix, which gives a closed-form equation for the effect that hybrid 
 
 Read the paper [here](https://ieeexplore.ieee.org/document/9811782).
 
-Here is the poster presented at ICRA 2022:
-
-<img src="/assets/img/hybrid_event_shaping_icra_2022.jpg" alt="HES Poster" width="800" class="center"/>
-
-Watch the video attachment here:
-
-[![HES_video_attachment](http://img.youtube.com/vi/EqIjG2cCX5w/0.jpg)](https://www.youtube.com/watch?v=EqIjG2cCX5w "Hybrid Event Shaping Video Attachment")
-
 Watch my presentation at ICRA here:
 
 [![HES_ICRA_presentation](https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg)](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation")
