@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hybrid Event Shaping to Stabilize Periodic Hybrid Orbits
-subtitle: Presented at IEEE ICRA 2022
+subtitle: IEEE ICRA 2022
 cover-img: /assets/img/paddle_juggler.jpg
 thumbnail-img: /assets/img/paddle_juggler.jpg
 share-img: /assets/img/paddle_juggler.jpg
