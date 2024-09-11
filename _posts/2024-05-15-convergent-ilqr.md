@@ -12,10 +12,6 @@ In order to perform highly dynamic and agile maneuvers, legged robots typically 
 
 Read the paper [here](https://arxiv.org/abs/2304.00346).
 
-Here is the poster presented at ICRA 2022:
-
-<img src="/assets/img/convergent_ilqr.jpg" alt="Convergent iLQR Poster" width="800" class="center"/>
-
 Watch my presentation at ICRA here:
 
 [![x-iLQR_ICRA_presentation](https://img.youtube.com/vi/EaUzGOmvvlM/0.jpg)](https://www.youtube.com/watch?v=EaUzGOmvvlM "Convergent iLQR ICRA Presentation")
