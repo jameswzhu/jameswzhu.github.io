@@ -9,6 +9,4 @@ During my PhD, I worked with Dr. Aaron Johnson in the [Robomechanics Lab](https:
 
 My goal is to ensure that robots contribute positively and equitably to society. To achieve this, I approach robots as socio-technical systems, recognizing the importance of integrating technical, social, and policy dimensions for successful deployments. My PhD research has advanced the reliability and robustness of legged robot locomotion while also addressing policy considerations and social science perspectives to promote equity and broaden access to robotic technologies.
 
-I am currently seeking postdoctoral opportunities at the intersection of robotics and society.
-
 Here is my research output that I have worked on:
