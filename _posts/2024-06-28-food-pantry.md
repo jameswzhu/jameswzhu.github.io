@@ -15,4 +15,4 @@ In this paper, we explore one such population: food pantry patrons.
 Our study aims to gain insight into their true needs, attitudes toward ADRs, and what engineering and policy developments are necessary to enable ADRs to best serve this community. Based on interviews conducted with 21 food pantry patrons in the Boston, Massachusetts, USA area, we find that for this population, there exist specific needs that ADRs could fill as well as an overall openness to trying ADR services. 
 The insights from this study can guide robot technology development and encourage collaborations between the robotics industry and government organizations to deliver technological services that can provide value to historically underrepresented communities.
 
-Paper in preparation.
+Read the thesis chapter here.
