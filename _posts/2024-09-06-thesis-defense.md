@@ -2,7 +2,6 @@
 layout: post
 title: "Navigating a Complex World: Improving Robot Outcomes Through Social, Regulatory, and Control Theoretic Approaches"
 subtitle: Thesis Defense
-cover-img: /assets/img/deployment-stack.png
 thumbnail-img: /assets/img/deployment-stack.png
 share-img: /assets/img/deployment-stack.png
 tags: [thesis]
