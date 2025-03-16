@@ -2,7 +2,6 @@
 layout: post
 title: Designing Safe Quadrupedal Gaits
 subtitle: 2024 IEEE ICRA Workshop on Advancements in Trajectory Optimization and Model Predictive Control for Legged Systems
-cover-img: /assets/img/beamwalking.png
 thumbnail-img: /assets/img/beamwalking.png
 share-img: /assets/img/beamwalking.png
 tags: [hybrid systems]
