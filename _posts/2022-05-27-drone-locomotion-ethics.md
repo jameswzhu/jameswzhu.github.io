@@ -2,7 +2,6 @@
 layout: post
 title: "By Air or by Land: How Locomotion Methods Dictate Drone Ethics"
 subtitle: 2022 IEEE ICRA Workshop on Addressing Ethical and Technical Challenges in the Development, Use, and Governance of Lethal Autonomous Weapons Systems
-cover-img: /assets/img/ghost_robotics_sniper.jpg
 thumbnail-img: /assets/img/ghost_robotics_sniper.jpg
 share-img: /assets/img/ghost_robotics_sniper.jpg
 tags: [ethics]
