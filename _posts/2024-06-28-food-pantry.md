@@ -2,7 +2,6 @@
 layout: post
 title: "Improving Equity in Robot Deployment: A Study of Food Pantry Patrons"
 subtitle: In Preparation
-cover-img: /assets/img/delivery_robot.jpg
 thumbnail-img: /assets/img/delivery_robot.jpg
 share-img: /assets/img/delivery_robot.jpg
 tags: [ethics]
