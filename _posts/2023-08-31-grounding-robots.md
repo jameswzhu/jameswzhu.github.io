@@ -2,7 +2,6 @@
 layout: post
 title: Grounding Robot Locomotion in Self-Defense Law
 subtitle: 2023 IEEE RO-MAN
-cover-img: /assets/img/delivery.jpg
 thumbnail-img: /assets/img/delivery.jpg
 share-img: /assets/img/delivery.jpg
 tags: [ethics]
