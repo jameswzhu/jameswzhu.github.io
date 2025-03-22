@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/img/Picture_of_Head.jpg" alt="Me" width="400" class="center"/>
+<img src="/assets/img/Picture_of_Head.jpg" alt="Me" width="300" class="center"/>
 
 I am currently a postdoctoral researcher at [LAAS-CNRS](https://www.laas.fr/en/teams/ris/) in Toulouse, France. I received my MS and PhD from Carnegie Mellon in 2022 and 2024, respectively, and BE from Vanderbilt University in 2020.
 During my PhD, I worked with Dr. Aaron Johnson in the [Robomechanics Lab](https://www.cmu.edu/me/robomechanicslab/) at Carnegie Mellon University. 
