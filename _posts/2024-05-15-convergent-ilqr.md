@@ -4,13 +4,28 @@ title: Convergent iLQR for Safe Trajectory Planning and Control of Legged Robots
 subtitle: 2024 IEEE ICRA
 thumbnail-img: /assets/img/quad_comparison.jpg
 share-img: /assets/img/quad_comparison.jpg
-tags: [hybrid systems]
+tags: [legged robots, robust control]
 ---
 
-In order to perform highly dynamic and agile maneuvers, legged robots typically spend time in underactuated domains (e.g. with feet off the ground) where the system has limited command of its acceleration and a constrained amount of time before transitioning to a new domain (e.g. foot touchdown). Meanwhile, these transitions can have instantaneous, unbounded effects on perturbations. These properties make it difficult for local feedback controllers to effectively recover from disturbances as the system evolves through underactuated domains and hybrid impact events. To address this, we utilize the fundamental solution matrix that characterizes the evolution of perturbations through a hybrid trajectory and its 2-norm, which represents the worst-case growth of perturbations. In this paper, the worst-case perturbation analysis is used to explicitly reason about the tracking performance of a hybrid trajectory and is incorporated in an iLQR framework to optimize a trajectory while taking into account the closed-loop convergence of the trajectory under an LQR tracking controller. The generated convergent trajectories are able to recover more effectively from perturbations, are more robust to large disturbances, and use less feedback control effort than trajectories generated with traditional optimization methods.
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #FFF5EE;
+    background: #745EED;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+  .button:hover { background: #745EED; color: #8BD1DA; }
+</style>
 
-Read the paper [here](https://arxiv.org/abs/2304.00346).
+Legged robots often perform dynamic maneuvers in underactuated domains, where they have limited control over acceleration and are highly sensitive to disturbances during transitions (e.g., foot touchdown). This makes it challenging for traditional feedback controllers to recover from perturbations. To address this, the paper uses worst-case perturbation analysis based on a fundamental solution matrix to optimize hybrid trajectories. Incorporating this analysis into an iLQR framework, the optimized trajectories exhibit better recovery from disturbances, are more robust to large perturbations, and require less feedback control effort compared to conventional optimization methods.
 
-Watch my presentation at ICRA here:
+## Read the Paper  
+[Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9811782){: .button}
 
-[![x-iLQR_ICRA_presentation](https://img.youtube.com/vi/EaUzGOmvvlM/0.jpg)](https://www.youtube.com/watch?v=EaUzGOmvvlM "Convergent iLQR ICRA Presentation")
+## Watch the ICRA Presentation  
+[Watch the conference presentation on YouTube]([https://img.youtube.com/vi/EaUzGOmvvlM/0.jpg])){: .button}
