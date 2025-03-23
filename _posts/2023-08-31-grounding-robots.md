@@ -27,6 +27,5 @@ Robots operating near humans depend on trust. However, when that trust is broken
 ## Read the Paper  
 [Read the full paper on IEEE Xplore]([https://ieeexplore.ieee.org/document/1030942]){: .button}
 
-Watch my presentation at RO-MAN here:
-
-[![Self-Defense RO-MAN Presentation](https://img.youtube.com/vi/dce7EnUBWqU/0.jpg)](https://www.youtube.com/watch?v=dce7EnUBWqU "Grounding Robot Navigation in Self-Defense Law")
+## Watch the RO-MAN Presentation  
+[Watch the conference presentation on YouTube]([https://www.youtube.com/watch?v=dce7EnUBWqU]){: .button}
