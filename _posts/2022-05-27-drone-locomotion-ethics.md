@@ -25,4 +25,4 @@ tags: [ethics]
 As legged robots gain traction in military applications, their use as armed drones presents new ethical concerns distinct from aerial drones. Unlike airborne strikes, legged drones will operate in close proximity to civilians, requiring complex, real-time assessments of human intent. Their deployment in urban environments raises concerns about misinterpretation of human actions, inappropriate self-defense responses, and a lack of de-escalation capabilities. Given the difficulty of making rapid, accurate decisions in dynamic settings, the risks of legged drones may outweigh their potential benefits, necessitating a reevaluation of their ethical use in warfare.
 
 ## Read the Paper  
-[Read the workshop extended abstract here]([https://www.andrew.cmu.edu/user/amj1/papers/How_Locomotion_Methods_Dictate_Drone_Ethics.pdf]){: .button}
+[Read the workshop extended abstract here](https://www.andrew.cmu.edu/user/amj1/papers/How_Locomotion_Methods_Dictate_Drone_Ethics.pdf){: .button}
