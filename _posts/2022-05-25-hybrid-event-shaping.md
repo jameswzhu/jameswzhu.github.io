@@ -4,7 +4,7 @@ title: Hybrid Event Shaping to Stabilize Periodic Hybrid Orbits
 subtitle: 2022 IEEE ICRA
 thumbnail-img: /assets/img/paddle_juggler.jpg
 share-img: /assets/img/paddle_juggler.jpg
-tags: [hybrid systems]
+tags: [legged robots, robust control]
 ---
 
 **Hybrid Event Shaping (HES)** is a novel control method for stabilizing legged robots by optimizing discrete events like footfalls and impacts. Using the **saltation matrix**, HES provides a closed-form approach to analyze stability and introduces **shape parameters**—higher-order terms that enhance stability independently of system dynamics. 
