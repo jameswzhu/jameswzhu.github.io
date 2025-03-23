@@ -7,12 +7,37 @@ share-img: /assets/img/paddle_juggler.jpg
 tags: [hybrid systems]
 ---
 
-Many controllers for legged robotic systems leverage open- or closed-loop control at discrete hybrid events to enhance stability. These controllers appear in several well studied phenomena such as the Raibert stepping controller, paddle juggling, and swing leg retraction. This work introduces
-hybrid event shaping (HES): a generalized method for analyzing and designing stable hybrid event controllers. HES utilizes the
-saltation matrix, which gives a closed-form equation for the effect that hybrid events have on stability. We also introduce shape parameters, which are higher order terms that can be tuned completely independently of the system dynamics to promote stability. Optimization methods are used to produce values of these parameters that optimize a stability measure. Hybrid event shaping captures previously developed control methods while also producing new optimally stable trajectories without the need for continuous-domain feedback.
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; }
+  h1 { color: #007acc; text-align: center; }
+  h2 { color: #005f99; }
+  p { font-size: 16px; }
+  .video-thumbnail { text-align: center; margin-top: 20px; }
+  .button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    color: white;
+    background: #007acc;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .button:hover { background: #005f99; }
+</style>
 
-Read the paper [here](https://ieeexplore.ieee.org/document/9811782).
+# Hybrid Event Shaping (HES)
 
-Watch my presentation at ICRA here:
+**Hybrid Event Shaping (HES)** is a novel control method for stabilizing legged robots by optimizing discrete events like footfalls and impacts. Using the **saltation matrix**, HES provides a closed-form approach to analyze stability and introduces **shape parameters**—higher-order terms that enhance stability independently of system dynamics. 
 
-[![HES_ICRA_presentation](https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg)](https://www.youtube.com/watch?v=oLRKRzsb5uo "Hybrid Event Shaping ICRA Presentation")
+By leveraging optimization techniques, HES **unifies existing control strategies** (e.g., Raibert stepping) while generating new, optimally stable motions **without requiring continuous feedback**.
+
+## 📄 Read the Paper  
+🔗 [Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9811782){: .button}
+
+## 🎥 Watch the ICRA Presentation  
+<div class="video-thumbnail">
+  <a href="https://www.youtube.com/watch?v=oLRKRzsb5uo" title="Hybrid Event Shaping ICRA Presentation">
+    <img src="https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg" alt="HES ICRA Presentation Thumbnail" width="100%">
+  </a>
+</div>
