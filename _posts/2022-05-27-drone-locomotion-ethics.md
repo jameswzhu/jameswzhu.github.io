@@ -7,6 +7,22 @@ share-img: /assets/img/ghost_robotics_sniper.jpg
 tags: [ethics]
 ---
 
-The development of weaponized legged robotic platforms beckons consideration of the ethical use of these new technologies. In particular, we propose that legged drones will be deployed in substantially different environments than aerial drones and that this difference necessitates a new set of ethical guidelines.
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #FFF5EE;
+    background: #745EED;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+  .button:hover { background: #745EED; color: #8BD1DA; }
+</style>
 
-Read the abstract [here](https://www.andrew.cmu.edu/user/amj1/papers/How_Locomotion_Methods_Dictate_Drone_Ethics.pdf).
+As legged robots gain traction in military applications, their use as armed drones presents new ethical concerns distinct from aerial drones. Unlike airborne strikes, legged drones will operate in close proximity to civilians, requiring real-time assessments of human intent—something far more complex than remote aerial surveillance. Their deployment in urban environments raises concerns about misinterpretation of human actions, inappropriate self-defense responses, and a lack of de-escalation capabilities. Given the difficulty of making rapid, accurate decisions in dynamic settings, the risks of legged drones may outweigh their potential benefits, necessitating a reevaluation of their ethical use in warfare.
+
+## Read the Paper  
+[Read the workshop extended abstract here]([https://www.andrew.cmu.edu/user/amj1/papers/How_Locomotion_Methods_Dictate_Drone_Ethics.pdf]){: .button}
