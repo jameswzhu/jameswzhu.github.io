@@ -7,6 +7,7 @@ share-img: /assets/img/paddle_juggler.jpg
 tags: [legged robots, robust control]
 ---
 
+<style>
   body { 
     font-family: 'Figtree', sans-serif; 
     line-height: 1.6; 
