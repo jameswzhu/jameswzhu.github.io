@@ -7,10 +7,25 @@ share-img: /assets/img/delivery.jpg
 tags: [ethics]
 ---
 
-Robots operating in close proximity to humans rely heavily on human trust in them to successfully complete their tasks. But what are the real outcomes when this trust is violated? Self-defense law provides a framework for analyzing tangible failure scenarios that can inform the design of robots and their algorithms. Studying self-defense is particularly important for ground robots since they operate within public human environments, where they can pose a legitimate threat to human safety. Moreover, even if ground robots can guarantee human safety, the perception of a threat is enough to warrant human self-defense against robots. In this paper, we synthesize works in law, engineering, and the social sciences to present four actionable recommendations for how the robotics community can craft robots to mitigate the likelihood of self-defense situations arising. We establish how current U.S. self-defense law can justify a human protecting themselves against a robot, discuss the current literature on human attitudes toward robots, and analyze methods that have been produced to allow robots to operate close to humans. Finally, we present hypothetical scenarios that underscore how current robot navigation methods can fail to sufficiently consider self
-defense concerns and the need for the recommendations to guide improvements in the field.
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #FFF5EE;
+    background: #745EED;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+  .button:hover { background: #745EED; color: #8BD1DA; }
+</style>
 
-Read the paper [here](https://ieeexplore.ieee.org/document/10309428).
+Robots operating near humans depend on trust. However, when that trust is broken, people may feel justified in defending themselves. This paper explores how self-defense law can inform robot design, particularly for ground robots that interact closely with the public. By synthesizing insights from law, engineering, and social sciences, we propose four recommendations to reduce situations where humans feel threatened by robots. We legal justifications for self-defense against robots, human attitudes toward robotic threats, and existing robot navigation methods, highlighting gaps that could lead to conflict. The findings emphasize the need for improved design strategies to ensure safe and trustworthy human-robot interactions.
+
+## Read the Paper  
+[Read the full paper on IEEE Xplore]([https://ieeexplore.ieee.org/document/1030942]){: .button}
 
 Watch my presentation at RO-MAN here:
 
