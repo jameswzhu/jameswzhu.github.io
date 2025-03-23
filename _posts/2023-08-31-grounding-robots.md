@@ -25,7 +25,7 @@ tags: [ethics]
 Robots operating near humans depend on trust. However, when that trust is broken, people may feel justified in defending themselves. This paper explores how self-defense law can inform robot design, particularly for ground robots that interact closely with the public. By synthesizing insights from law, engineering, and social sciences, we propose four recommendations to reduce situations where humans feel threatened by robots. The findings emphasize the need for improved design strategies to ensure safe and trustworthy human-robot interactions.
 
 ## Read the Paper  
-[Read the full paper on IEEE Xplore]([https://ieeexplore.ieee.org/document/1030942]){: .button}
+[Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/1030942){: .button}
 
 ## Watch the RO-MAN Presentation  
-[Watch the conference presentation on YouTube]([https://www.youtube.com/watch?v=dce7EnUBWqU]){: .button}
+[Watch the conference presentation on YouTube](https://www.youtube.com/watch?v=dce7EnUBWqU){: .button}
