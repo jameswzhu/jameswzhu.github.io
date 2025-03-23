@@ -28,4 +28,4 @@ Legged robots often perform dynamic maneuvers in underactuated domains, where th
 [Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9811782){: .button}
 
 ## Watch the ICRA Presentation  
-[Watch the conference presentation on YouTube]([https://img.youtube.com/vi/EaUzGOmvvlM/0.jpg])){: .button}
+[Watch the conference presentation on YouTube](https://www.youtube.com/watch?v=EaUzGOmvvlM){: .button}
