@@ -42,8 +42,4 @@ By leveraging optimization techniques, HES unifies existing control strategies (
 [Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9811782){: .button}
 
 ## Watch the ICRA Presentation  
-<div class="video-thumbnail">
-  <a href="https://www.youtube.com/watch?v=oLRKRzsb5uo" title="Hybrid Event Shaping ICRA Presentation">
-    <img src="https://img.youtube.com/vi/oLRKRzsb5uo/0.jpg" alt="HES ICRA Presentation Thumbnail" width="100%">
-  </a>
-</div>
+[Watch the conference presentation on Youtube]([https://ieeexplore.ieee.org/document/9811782](https://www.youtube.com/watch?v=oLRKRzsb5uo)){: .button}
