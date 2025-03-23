@@ -29,4 +29,4 @@ By leveraging optimization techniques, HES unifies existing control strategies (
 [Read the full paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9811782){: .button}
 
 ## Watch the ICRA Presentation  
-[Watch the conference presentation on YouTube]([https://ieeexplore.ieee.org/document/9811782](https://www.youtube.com/watch?v=oLRKRzsb5uo)){: .button}
+[Watch the conference presentation on YouTube](https://www.youtube.com/watch?v=oLRKRzsb5uo){: .button}
