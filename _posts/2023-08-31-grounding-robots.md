@@ -22,6 +22,8 @@ tags: [ethics]
   .button:hover { background: #745EED; color: #8BD1DA; }
 </style>
 
+**This was my first full-length paper on legal perspectives of robotics and was a very exciting, self-driven project.**
+
 Robots operating near humans depend on trust. However, when that trust is broken, people may feel justified in defending themselves. This paper explores how self-defense law can inform robot design, particularly for ground robots that interact closely with the public. By synthesizing insights from law, engineering, and social sciences, we propose four recommendations to reduce situations where humans feel threatened by robots. The findings emphasize the need for improved design strategies to ensure safe and trustworthy human-robot interactions.
 
 ## Read the Paper  
