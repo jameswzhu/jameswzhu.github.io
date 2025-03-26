@@ -22,7 +22,7 @@ tags: [legged robots, robust control]
   .button:hover { background: #745EED; color: #8BD1DA; }
 </style>
 
-**This was my first conference paper as a PhD student!**
+**This was my first conference paper as a PhD student.**
 
 Hybrid Event Shaping (HES) is a novel control method for stabilizing legged robots by optimizing discrete events like footfalls and impacts. Using the saltation matrix, HES provides a closed-form approach to analyze stability and introduces shape parameters, which are higher-order terms that enhance stability independently of system dynamics. 
 By leveraging optimization techniques, HES unifies existing control strategies (e.g., Raibert stepping) while generating new, optimally stable motions without requiring continuous feedback.
