@@ -19,7 +19,7 @@ tags: [legged robots, robust control]
     border-radius: 5px;
     font-weight: 600;
   }
-  .button:hover { background: #ED745E; color: #EDC75E; }
+  .button:hover { background: #ED745E; color: #FFF5EE; }
 </style>
 
 **This was my first paper as a PhD student.**
