@@ -803,6 +803,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination .page-item .page-link:hover {
   color: #FFF5EE;
   background-color: {{ site.hover-col | default: "#0085A1" }};
+  text-decoration: underline;
 }
 
 /* --- Tables --- */
