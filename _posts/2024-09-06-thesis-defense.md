@@ -14,12 +14,13 @@ tags: [thesis]
     margin: 10px 0;
     font-size: 16px;
     color: #FFF5EE;
-    background: #745EED;
+    background: #ED745E;
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
+    border: 2px solid #EDC75E
   }
-  .button:hover { background: #745EED; color: #8BD1DA; }
+  .button:hover { background: #ED745E; color: #FFF5EE; }
 </style>
 
 **As of September 6th, 2024, I have officially defended my thesis!**
