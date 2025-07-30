@@ -787,12 +787,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 .pagination .page-item .page-link {
   font-family: 'Figtree', sans-serif;
-  text-transform: uppercase;
   font-size: 0.875rem;
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #FFF;
+  background-color: {{ site.hover-col | default: "#0085A1" }};
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
