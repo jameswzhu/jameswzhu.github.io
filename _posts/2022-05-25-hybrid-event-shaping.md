@@ -18,6 +18,7 @@ tags: [legged robots, robust control]
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
+    border: 2px solid #EDC75E
   }
   .button:hover { background: #ED745E; color: #FFF5EE; }
 </style>
