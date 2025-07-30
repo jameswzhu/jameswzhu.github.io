@@ -14,12 +14,13 @@ tags: [legged robots, robust control]
     margin: 10px 0;
     font-size: 16px;
     color: #FFF5EE;
-    background: #745EED;
+    background: #ED745E;
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
+    border: 2px solid #EDC75E
   }
-  .button:hover { background: #745EED; color: #8BD1DA; }
+  .button:hover { background: #ED745E; color: #FFF5EE; }
 </style>
 
 Legged robots often perform dynamic maneuvers in underactuated domains, where they have limited control over acceleration and are highly sensitive to disturbances during transitions (e.g., foot touchdown). This makes it challenging for traditional feedback controllers to recover from perturbations. To address this, the paper uses worst-case perturbation analysis based on a fundamental solution matrix to optimize hybrid trajectories. Incorporating this analysis into an iLQR framework, the optimized trajectories exhibit better recovery from disturbances, are more robust to large perturbations, and require less feedback control effort compared to conventional optimization methods.
