@@ -14,7 +14,7 @@ tags: [legged robots, robust control]
     margin: 10px 0;
     font-size: 16px;
     color: #FFF5EE;
-    background: #745EED;
+    background: #EDC75E;
     text-decoration: none;
     border-radius: 5px;
     font-weight: 600;
