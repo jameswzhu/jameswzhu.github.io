@@ -620,6 +620,19 @@ footer .footer-custom-content {
     border: 2px solid #EDC75E
 }
 
+#full-tags-list .tag-entry:hover {
+display: inline-block;
+  padding: 10px 15px;
+  margin: 10px 0;
+  font-size: 16px;
+  color: #FFF5EE;
+  background: #ED745E;
+  text-decoration: underline;
+  border-radius: 5px;
+  font-weight: 600;
+  border: 2px solid #EDC75E
+}
+
 #full-tags-list .tag-entry a {
   display: inline-block;
     padding: 10px 15px;
@@ -633,6 +646,19 @@ footer .footer-custom-content {
     border: 2px solid #EDC75E
 }
 
+#full-tags-list .tag-entry a:hover {
+display: inline-block;
+  padding: 10px 15px;
+  margin: 10px 0;
+  font-size: 16px;
+  color: #FFF5EE;
+  background: #ED745E;
+  text-decoration: underline;
+  border-radius: 5px;
+  font-weight: 600;
+  border: 2px solid #EDC75E
+}
+  
 #full-tags-list .tag-entry .entry-date {
   color: #808080;
   font-style: italic;
