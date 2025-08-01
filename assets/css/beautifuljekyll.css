@@ -573,8 +573,7 @@ footer .footer-custom-content {
 
 .blog-tags a:hover {
   opacity: 1;
-  color: {{ site.text-col | default: "#404040" }};
-  border-color: {{ site.text-col | default: "#404040" }};
+  color: {{ site.hover-col | default: "#404040" }};
 }
 
 .post-preview .blog-tags {
@@ -616,7 +615,7 @@ footer .footer-custom-content {
     border: 2px solid #EDC75E
 }
 
-.tag-btn:active {
+.tag-btn.active {
     display: inline-block;
     padding: 10px 15px;
     margin: 10px 0;
