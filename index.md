@@ -14,4 +14,4 @@ I also study how robots interact with human-centered environments, integrating s
 
 I am also passionate about engineering education. At the University of Miami, I co-instruct Robotics and Intelligent Systems and the Robotics Studio Lab, where I develop hands-on learning experiences that integrate modern control, deep learning, programming, and physical robotic systems. Previously, I served as a Teaching Consultant Fellow at Carnegie Mellon University's Eberly Center, supporting instructors in course design, assessment, and inclusive teaching practices.
 
-Here is my research output that I have worked on:
+<iframe src="career-map.html" width="100%" height="800" style="border:none;"></iframe>
