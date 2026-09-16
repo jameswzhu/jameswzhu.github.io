@@ -49,12 +49,12 @@
   }
 
   .country {
-    fill: #dedad4;
+    fill: #D4DED4;
     stroke: #c8c3bc;
     stroke-width: 0.4;
   }
 
-  .country:hover { fill: #ccc9c2; }
+  .country:hover { fill: #BAD9C3; }
 
   .graticule {
     fill: none;
@@ -62,7 +62,7 @@
     stroke-width: 0.3;
   }
 
-  .ocean { fill: #eaf2f7; }
+  .ocean { fill: #FFF5EE; }
 
   .pin-group { cursor: pointer; }
 
@@ -138,7 +138,7 @@
 <body>
 
 <header>
-  <h1>A career in motion</h1>
+  <h1>AMy Journey</h1>
   <p>hover a pin to explore</p>
 </header>
 
@@ -156,7 +156,7 @@
   <div class="legend-item"><div class="legend-dot" style="background:#c8102e;"></div><span>CMU &middot; 2020&ndash;2024</span></div>
   <div class="legend-item"><div class="legend-dot" style="background:#6a3fa0;"></div><span>RAI &middot; 2024</span></div>
   <div class="legend-item"><div class="legend-dot" style="background:#2a6ebb;"></div><span>LAAS-CNRS &middot; 2025&ndash;2026</span></div>
-  <div class="legend-item"><div class="legend-dot" style="background:#e5751f;"></div><span>Miami &middot; 2026&ndash;Present;</span></div>
+  <div class="legend-item"><div class="legend-dot" style="background:#e5751f;"></div><span>Miami &middot; 2026&ndash;Present</span></div>
 </div>
 
 <footer>made with &hearts; for your github page</footer>
@@ -172,7 +172,7 @@ const POSITIONS = [
   { role: "PhD Student",           inst: "Carnegie Mellon University, Pittsburgh PA", years: "2020 \u2013 2024", color: "#c8102e", lon: -79.94, lat: 40.44, current: false },
   { role: "Research Intern",       inst: "Robotics and AI Institute, Boston MA", years: "2024", color: "#6a3fa0", lon: -71.06, lat: 42.36, current: false },
   { role: "Postdoctoral Researcher", inst: "LAAS-CNRS, Toulouse, France", years: "2025 \u2013 2026", color: "#2a6ebb", lon: 1.44, lat: 43.60, current: false },
-  { role: "Postdoctoral Researcher", inst: "University of Miami, Miami FL", years: "2026 \u2013 Present", color: "#e5751f", lon: -80.19, lat: 25.77, current: true }
+  { role: "Postdoctoral Researcher", inst: "University of Miami, Miami FL", years: "2026 \u2013 Present", color: "#e5751f", lon: -80.19, lat: 25.77, current: false }
 ];
 
 const svg = d3.select("#map-svg");
