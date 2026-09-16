@@ -8,7 +8,7 @@ Teaching Experience:
 * Spring 2027 &#124; Co-Instructor: Robotics Studio Lab
 * Fall 2026 &#124; Co-Instructor: Robotics and Intelligent Systems
 * September 2022 -- December 2023 &#124; Teaching Consultant Fellow: Eberly Center for Teaching Excellence
-* September 2020 -- December 2023 &#124; Founder & Organizer: Gwen’s Girls Robotics Outreach Program
+* September 2020 -- December 2023 &#124; Founder & Organizer: [Gwen’s Girls](https://www.gwensgirls.org) Robotics Outreach Program
 * Spring 2022 and Spring 2023 &#124; Teaching Assistant: Dyanmics
 * Spring 2019 &#124; Teaching Assistant:Intro to Robotics
 * Spring 2019 &#124; Teaching Assistant: Probability and Statistical Inference
