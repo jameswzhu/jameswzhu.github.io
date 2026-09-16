@@ -4,7 +4,7 @@ title: "Robust RL Navigation Via Sensitivity-Aware Observation Augmentation"
 subtitle: "2025 IROS Workshop on The Art of Robustness Surviving Failures in Robotics"
 thumbnail-img: /assets/img/observation_augmentation.png
 share-img: /assets/img/observation_augmentation.png
-tags: [thesis]
+tags: [aerial robots, robust control]
 ---
 
 <style>
