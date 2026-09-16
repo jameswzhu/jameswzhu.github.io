@@ -1,6 +1,5 @@
 ---
 layout: page
-title: home
 ---
 
 <img src="/assets/img/Picture_of_Head.jpg" alt="Me" width="270" class="center" style="border-radius: 50%; object-fit: cover; border: 2px solid #EDC75E;" />
