@@ -2,8 +2,10 @@
 layout: page
 title: Teaching
 ---
-I have always loved being a teacher and mentor to younger students. I have 4 semesters of Teaching Assistant experience between Vanderbilt and CMU in the following classes:
+I have always loved being a teacher and mentor to younger students. I am currently the co-instructor of two courses a the University of Miami and I have four semesters of Teaching Assistant experience between Vanderbilt and CMU:
 
+* Robotics Studio Lab: Spring 2027
+* Robotics and Intelligent Systems: Fall 2026
 * Dyanmics: Spring 2022 and Spring 2023
 * Intro to Robotics: Spring 2019
 * Probability and Statistical Inference: Spring 2019
