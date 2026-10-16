@@ -8,4 +8,4 @@ I am currently a postdoctoral researcher at the University of Miami, working wit
 Previously, I was a postdoctoral researcher at [LAAS-CNRS](https://www.laas.fr/en/teams/ris/) in Toulouse, France. I received my MS and PhD from Carnegie Mellon in 2022 and 2024, respectively, and BE from Vanderbilt University in 2020.
 During my PhD, I worked with Dr. Aaron Johnson in the [Robomechanics Lab](https://www.cmu.edu/me/robomechanicslab/) at Carnegie Mellon University. 
 
-<iframe src="map.html" width="100%" scrolling="no" style="border:none; display:block; aspect-ratio: 960 / 560;"></iframe>
+<iframe src="map.html" width="100%" scrolling="no" style="border:none; display:block; aspect-ratio: 960 / 600;"></iframe>
